@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">app_6</string>
+    <string name="enter_extra_data">Enter extra data</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/app_6/ExampleInstrumentedTest.java;D:/android/app_6/app/src/main/java/com/example/app_6/MainActivity.java;D:/android/app_6/app/src/main/res/drawable/ic_launcher_background.xml;D:/android/app_6/app/src/main/res/drawable/ic_launcher_foreground.xml;D:/android/app_6/app/src/main/res/layout/activity_main.xml;D:/android/app_6/app/src/main/res/mipmap-anydpi/ic_launcher.xml;D:/android/app_6/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml;D:/android/app_6/app/src/main/res/values/colors.xml;D:/android/app_6/app/src/main/res/values/strings.xml;D:/android/app_6/app/src/main/res/values/themes.xml;D:/android/app_6/app/src/main/res/values-night/themes.xml;D:/android/app_6/app/src/main/res/xml/backup_rules.xml;D:/android/app_6/app/src/main/res/xml/data_extraction_rules.xml;D:/android/app_6/app/src/main/AndroidManifest.xml;D:/android/app_6/app/src/test/java/com/example/app_6/ExampleUnitTest.java;D:/android/app_6/app/build.gradle.kts;D:/android/app_6/build.gradle.kts;D:/android/app_6/settings.gradle.kts" />
+  </component>
+</project>
